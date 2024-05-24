@@ -8,6 +8,5 @@ fn call_me() {
 }
 
 fn main() {
-    c = 4;
     call_me();
 }
